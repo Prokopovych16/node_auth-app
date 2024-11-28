@@ -1,5 +1,5 @@
 # Auth application
-Implement an application that allows user to:
+Implemented an application that allows user to:
 - Register using name, email and password (only non authenticated)
   - Inform the users about the rules for a password and check them
   - send and activation email
@@ -22,7 +22,3 @@ Implement an application that allows user to:
   - To change an email you should type the password, confirm the new email and notify the old email about the change
 - 404 for all the other pages
 
-## (Optional) Advanced tasks
-- Implement Sign-up with Google, Facebook, Github (use Passport.js lib)
-- Profile page should allow to add/remove any social account
-- Add authentication to your Accounting App
